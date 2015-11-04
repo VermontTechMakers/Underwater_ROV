@@ -1,0 +1,12 @@
+	ROV PROPULSION	BOM		
+				
+1	Brushless Motor	750kv, 18Amax, 216w	17.04	http://www.hobbyking.com/hobbyking/store/__19611__NTM_Prop_Drive_28_36_750KV_265W.html
+2	Brushless Motor	750kv, 140W	16.63	http://www.hobbyking.com/hobbyking/store/__16229__NTM_Prop_Drive_Series_28_30A_750kv_140w.html?strSearch=140w
+3	Propeller		7.64	http://www.ebay.com/itm/E-flite-Rotor-5-Blade-Delta-V-32-EFLDF321-/151358915609?hash=item233db1c419:g:I74AAOSw9N1Vr91b
+	ESC	Watercooled	15.6	http://www.hobbyking.com/hobbyking/store/__24567__HobbyKing_30A_Boat_ESC_3A_UBEC.html
+3	ESC	Normal	7.9	http://www.ebay.com/itm/HP-SimonK-30A-ESC-Brushless-Speed-Controller-BEC-2A-for-F450-F550-Multicopter-/251748834057?hash=item3a9d665b09:g:JZ0AAOSwAL9UhV80
+3	Prop Shaft Adapter	Long	1.99	http://www.hobbyking.com/hobbyking/store/__19590__Long_Prop_adapter_w_Alu_Cone_3mm_motor_shaft_Grub_Screw_Type_.html
+	Custom	Duct/Mounts	$?	
+				
+				
+	Total	3 Motors	102.89	
