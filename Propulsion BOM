@@ -1,13 +1,13 @@
-QTY	Type	Detail	Cost Per Unit	Source
+QTY	Type		Detail		   Cost Per Unit	Source
 				
-3	Brushless Motor	750kv, 18Amax, 216w	17.04	http://www.hobbyking.com/hobbyking/store/__19611__NTM_Prop_Drive_28_36_750KV_265W.html
-0	Brushless Motor	750kv,140W		16.63	http://www.hobbyking.com/hobbyking/store/__16229__NTM_Prop_Drive_Series_28_30A_750kv_140w.html?strSearch=140w
-0	Propeller	Ducted Fan 5x 70mm	7.64	http://www.ebay.com/itm/E-flite-Rotor-5-Blade-Delta-V-32-EFLDF321-/151358915609?hash=item233db1c419:g:I74AAOSw9N1Vr91b
-0	Propeller	4 x 70mm M5		3.76	http://www.cornwallmodelboats.co.uk/acatalog/plasticm5.html#aG2309_2e65L
-3	ESC	W/reverse			15.99	http://www.ebay.com/itm/075B-30A-Brushless-ESC-w-Reverse-suit-for-mini-RC-boat-1-18-RC-On-Off-Road-Car-/190953054670?hash=item2c75b061ce:g:SqcAAOSwwNVTtp2n
-0	ESC	Normal				7.9	http://www.ebay.com/itm/HP-SimonK-30A-ESC-Brushless-Speed-Controller-BEC-2A-for-F450-F550-Multicopter-/251748834057?hash=item3a9d665b09:g:JZ0AAOSwAL9UhV80
-3	Prop Shaft Adapter	Long		1.99	http://www.hobbyking.com/hobbyking/store/__19590__Long_Prop_adapter_w_Alu_Cone_3mm_motor_shaft_Grub_Screw_Type_.html
-	Custom	Duct/Mounts			$?	https://www.facebook.com/groups/svseeker/756010401154896/
-						Printed	https://youtu.be/7jC55WLdDbs?t=17m55s
-				
+3	Brushless Motor		750kv, 18Amax, 216w	17.04		http://www.hobbyking.com/hobbyking/store/__19611__NTM_Prop_Drive_28_36_750KV_265W.html
+0	Brushless Motor		750kv,140W		16.63		http://www.hobbyking.com/hobbyking/store/__16229__NTM_Prop_Drive_Series_28_30A_750kv_140w.html?strSearch=140w
+0	Propeller		Ducted Fan 5x 70mm	7.64		http://www.ebay.com/itm/E-flite-Rotor-5-Blade-Delta-V-32-EFLDF321-/151358915609?hash=item233db1c419:g:I74AAOSw9N1Vr91b
+0	Propeller		4 x 70mm M5		3.76		http://www.cornwallmodelboats.co.uk/acatalog/plasticm5.html#aG2309_2e65L
+3	ESC	W/reverse	30a		15.99		http://www.ebay.com/itm/075B-30A-Brushless-ESC-w-Reverse-suit-for-mini-RC-boat-1-18-RC-On-Off-Road-Car-/190953054670?hash=item2c75b061ce:g:SqcAAOSwwNVTtp2n
+0	ESC	Normal		30a		7.9		http://www.ebay.com/itm/HP-SimonK-30A-ESC-Brushless-Speed-Controller-BEC-2A-for-F450-F550-Multicopter-/251748834057?hash=item3a9d665b09:g:JZ0AAOSwAL9UhV80
+3	Prop Shaft Adapter	Long		1.99		http://www.hobbyking.com/hobbyking/store/__19590__Long_Prop_adapter_w_Alu_Cone_3mm_motor_shaft_Grub_Screw_Type_.html
+	Custom	Duct/Mounts/Epoxy		$?		https://www.facebook.com/groups/svseeker/756010401154896/
+						Printed		https://youtu.be/7jC55WLdDbs?t=17m55s    https://www.youtube.com/watch?v=kDJ6YM-ZuLU
+	Cost per thruster	35.02	
 	Total	3 Motors	105.06	
